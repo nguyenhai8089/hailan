@@ -9,6 +9,8 @@
     "css-loader": "^1.0.0",
     "dateformat": "^4.5.1",
     "font-awesome": "4.7.0",
+    "gh-pages": "^4.0.0",
+    "homepage":"https://nguyenhai8089.github.io/hailan",
     "prop-types": "15.6.0",
     "react": "^16.3.2",
     "react-animation-components": "3.0.0",
@@ -29,7 +31,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "redeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
