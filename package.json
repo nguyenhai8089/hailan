@@ -2,6 +2,7 @@
   "name": "lab_04_1",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://nguyenhai8089.github.io/hailan",
   "dependencies": {
     "bootstrap": "4.0.0",
     "bootstrap-social": "5.1.1",
@@ -9,8 +10,7 @@
     "css-loader": "^1.0.0",
     "dateformat": "^4.5.1",
     "font-awesome": "4.7.0",
-    "gh-pages": "^4.0.0",
-    "homepage":"https://nguyenhai8089.github.io/hailan",
+    "gh-pages": "^4.0.0",    
     "prop-types": "15.6.0",
     "react": "^16.3.2",
     "react-animation-components": "3.0.0",
